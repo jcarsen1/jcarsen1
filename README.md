@@ -21,6 +21,9 @@
 
 <p align="left">I'm Jonathan Carsen from New York<br><br>- 🔭 I’m studying Business Analytics and Computer Information Systems <br>- 📚 I'm currently learning Data Privacy Regulation, Taipy, Ibis, Basic Linux Operations, and Tableau <br>- ⚡ In my free time I sim-race and spend time with my friends</p>
 
+###
+
+
 
 ###
 
