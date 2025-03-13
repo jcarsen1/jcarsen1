@@ -19,13 +19,8 @@
 
 ###
 
-<p align="left">I'm Jonathan Carsen from New York<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Jonathan Carsen from New York<br><br>- 🔭 I’m studying Business Analytics and Computer Information Systems <br>- 📚 I'm currently learning Data Privacy Regulation, Taipy, Ibis, Basic Linux Operations, and Tableau <br>- ⚡ In my free time I sim-race and spend time with my friends</p>
 
-###
-
-<div align="center">
-  <img height="150" src="https://www.google.com/imgres?q=Manhattan%20University&imgurl=https%3A%2F%2Fwww.avca.org%2Fwp-content%2Fuploads%2F2024%2F07%2FManhattan-College-Logo-Banner.jpg&imgrefurl=https%3A%2F%2Fwww.avca.org%2Fblog%2Fmanhattan-college-adds-mens-volleyball%2F&docid=eeMA3mNBQodZ-M&tbnid=67DoRm3gFJh7jM&vet=12ahUKEwjz2tej14eMAxXQmIkEHQt8D3oQM3oFCIUBEAA..i&w=899&h=439&hcb=2&ved=2ahUKEwjz2tej14eMAxXQmIkEHQt8D3oQM3oFCIUBEAA"  />
-</div>
 
 ###
 
