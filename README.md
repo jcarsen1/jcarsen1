@@ -33,9 +33,6 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
 </div>
-![image](https://github.com/user-attachments/assets/66e97d18-cdc9-4408-b25a-b9d69c7daaac)
-
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
