@@ -23,6 +23,7 @@
 
 ###
 
+<h1 align="left"> Languages</h1>
 <div align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" height="40" alt="python logo" />
   <img width="12" />
